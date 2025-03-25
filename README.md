@@ -1,2 +1,2 @@
 # devops-review
-Testing
+Git Exercises for EX374
